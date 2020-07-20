@@ -58,7 +58,7 @@
                             <archive>
                                 <manifest>
                                     <mainClass>
-                                        gov.llamaland.gov.llamaland.centenarianbirthdays.Main
+                                        gov.llamaland.centenarianbirthdays.Main
                                     </mainClass>
                                 </manifest>
                             </archive>
