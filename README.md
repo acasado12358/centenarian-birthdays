@@ -28,7 +28,7 @@ java -jar target/centenarian-birthdays-1.0-SNAPSHOT-jar-with-dependencies.jar --
 
  - I have used Intellij as compiler tool, and it can be easily configured:
     
-    Run/Debug configurations choose: 
+    Run/Debug configurations choose type Application: 
     ```
     Main
     ```
